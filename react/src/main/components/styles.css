@@ -1,0 +1,9 @@
+.app-wallet {
+    display: flex;
+    flex-direction: column;
+}
+
+.invalid {
+    border: 1px solid tomato;
+    color: tomato;
+}
